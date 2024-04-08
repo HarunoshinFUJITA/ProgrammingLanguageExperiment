@@ -1,5 +1,8 @@
 # -ProgrammingLanguageExperiment
 # C言語
+# 第一回レポート https://docs.google.com/document/d/1lKDxsxhYGb7JatHJ6vpVKJ8g0qT4FQWCDjStq9Uk9Cg/edit
+https://www.ied.inf.uec.ac.jp/support/projects/ied-support/wiki/%E6%95%99%E6%9D%90
+
 ## コンパイル、実行
 1. 目的のファイルが存在するディレクトリに移動
 2. cc -o <コンパイル後ファイル名> <目的のファイル名>
